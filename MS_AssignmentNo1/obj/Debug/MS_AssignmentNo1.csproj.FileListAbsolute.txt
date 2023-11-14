@@ -1,0 +1,11 @@
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.AssemblyReference.cache
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.CustInfo.resources
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmWelcome.resources
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.Properties.Resources.resources
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.GenerateResource.cache
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.CoreCompileInputs.cache
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.exe.config
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.exe
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.pdb
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.exe
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.pdb
