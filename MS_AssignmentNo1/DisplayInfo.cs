@@ -10,26 +10,21 @@ using System.Windows.Forms;
 
 namespace MS_AssignmentNo1
 {
-    public partial class CustInfo : Form
+    public partial class frmDisplayInfo : Form
     {
-        public CustInfo()
+        public frmDisplayInfo()
         {
             InitializeComponent();
+        }
+
+        private void btnPrevious_Click(object sender, EventArgs e)
+        {
+            var form3 = new frmDisplayInfo(); form3.Show();
         }
 
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void btnPrevious_Click(object sender, EventArgs e)
-        {
-            var form1 = new frmWelcome(); form1.Show();
-        }
-
-        private void btnNext_Click(object sender, EventArgs e)
-        {
-            var form3 = new frmProdInfo(); form3.Show();
         }
     }
 }

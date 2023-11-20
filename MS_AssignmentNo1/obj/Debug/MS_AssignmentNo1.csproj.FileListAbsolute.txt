@@ -9,3 +9,5 @@ C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\bin\Debug\MS_Assign
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.pdb
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.exe
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.pdb
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmProdInfo.resources
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmDisplayInfo.resources
