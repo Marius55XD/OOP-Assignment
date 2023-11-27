@@ -1,0 +1,16 @@
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\bin\Debug\net6.0-windows\Invoice Calculator.exe
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\bin\Debug\net6.0-windows\Invoice Calculator.deps.json
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\bin\Debug\net6.0-windows\Invoice Calculator.runtimeconfig.json
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\bin\Debug\net6.0-windows\Invoice Calculator.dll
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\bin\Debug\net6.0-windows\Invoice Calculator.pdb
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice_Calculator.Form1.resources
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.csproj.GenerateResource.cache
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.AssemblyInfoInputs.cache
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.AssemblyInfo.cs
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.csproj.CoreCompileInputs.cache
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.dll
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\refint\Invoice Calculator.dll
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.pdb
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\Invoice Calculator.genruntimeconfig.cache
+C:\Users\20230263\Desktop\Invoice Calculator\Invoice Calculator\obj\Debug\net6.0-windows\ref\Invoice Calculator.dll
