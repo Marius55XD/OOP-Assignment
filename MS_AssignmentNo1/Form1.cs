@@ -31,15 +31,18 @@ namespace MS_AssignmentNo1
         {
 
         }
-
+        // Event handler for the Click event of btnExit
         private void btnExit_Click(object sender, EventArgs e)
         {
+            // Closes the current form when the btnExit is clicked
             this.Close();
         }
-
+        // Event handler for the Click event of btnNext
         private void btnNext_Click(object sender, EventArgs e)
         {
-            var form2 = new CustInfo(); form2.Show();
+            // Creates an instance of frmCustInfo, shows it, and hides the current form
+            var form2 = new frmCustInfo(); form2.Show();
+            this.Hide();
         }
     }
 }

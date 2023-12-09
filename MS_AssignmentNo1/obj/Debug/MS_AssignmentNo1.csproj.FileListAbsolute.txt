@@ -1,5 +1,4 @@
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.AssemblyReference.cache
-C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.CustInfo.resources
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmWelcome.resources
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.Properties.Resources.resources
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.GenerateResource.cache
@@ -11,3 +10,17 @@ C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_Assign
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.pdb
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmProdInfo.resources
 C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmDisplayInfo.resources
+C:\Users\20230323\Documents\Visual Programs\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmCustInfo.resources
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.exe.config
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.exe
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\bin\Debug\MS_AssignmentNo1.pdb
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.AssemblyReference.cache
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmCustInfo.resources
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmDisplayInfo.resources
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmWelcome.resources
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.frmProdInfo.resources
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.Properties.Resources.resources
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.GenerateResource.cache
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.csproj.CoreCompileInputs.cache
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.exe
+C:\Users\Stuop\OneDrive\Desktop\MS_AssignmentNo1\obj\Debug\MS_AssignmentNo1.pdb
